@@ -1,4 +1,5 @@
-// Paste in ur axon or dll source
+// Paste in your dll source doesn't matter.
+// Credits to ADSF or whatever.
 
 namespace Scanner {
 	BOOL compare(const BYTE* location, const BYTE* aob, const char* mask) {
